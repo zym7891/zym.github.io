@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>宇智波鼬 - Uchiha Itachi</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            background-color: #0b0b0b;
+            color: #e0e0e0;
+            font-family: "Microsoft Yahei", sans-serif;
+            line-height: 1.7;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        header {
+            text-align: center;
+            border-bottom: 1px solid #990000;
+            padding-bottom: 25px;
+            margin-bottom: 35px;
+        }
+        h1 {
+            color: #bb0000;
+            font-size: 42px;
+            margin-bottom:8px;
+        }
+        .sub-title{
+            color:#888;
+            font-size:18px;
+        }
+        .section{
+            background:#161616;
+            padding:26px;
+            border-radius:12px;
+            margin-bottom:24px;
+            border-left:4px solid #aa0000;
+        }
+        h2{
+            color:#dd3333;
+            margin-bottom:14px;
+            font-size:24px;
+        }
+        ul{
+            padding-left:22px;
+        }
+        li{
+            margin:8px 0;
+        }
+        .quote{
+            font-size:20px;
+            color:#ffaaaa;
+            text-align:center;
+            padding:20px;
+            font-style:italic;
+        }
+        footer{
+            text-align:center;
+            margin-top:50px;
+            color:#666;
+            font-size:14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>宇智波鼬</h1>
+            <p class="sub-title">うちはイタチ｜Uchiha Itachi</p>
+        </header>
+
+        <div class="section">
+            <h2>📜 角色简介</h2>
+            <p>宇智波鼬，木叶隐村宇智波一族的天才忍者，宇智波佐助的兄长。他背负灭族的罪名，以叛忍身份加入晓组织，一切都是为了守护村子与弟弟，是一位默默牺牲、贯彻大义的真正忍者。</p>
+        </div>
+
+        <div class="section">
+            <h2>📋 基础资料</h2>
+            <ul>
+                <li>生日：6月9日</li>
+                <li>星座：双子座</li>
+                <li>血型：AB型</li>
+                <li>身份：木叶暗部、晓组织·朱雀</li>
+                <li>血继限界：写轮眼、万花筒写轮眼</li>
+                <li>代表忍术：天照、月读、须佐能乎</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>💬 经典台词</h2>
+            <div class="quote">
+                “并不是成为火影的人就会被大家所认可，而是被大家所认可的人才能成为火影。”
+            </div>
+            <div class="quote">
+                “原谅我，佐助，这是最后一次了。”
+            </div>
+        </div>
+
+        <footer>
+            <p>火影忍者｜宇智波鼬 致敬页面 · 作业演示</p>
+        </footer>
+    </div>
+</body>
+</html>
